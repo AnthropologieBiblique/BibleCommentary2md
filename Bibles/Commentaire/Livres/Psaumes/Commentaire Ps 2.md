@@ -14,72 +14,72 @@ cssclass : français
 ![[Ps 2#1]]
 
 ```query
-"[[Ps 2#1]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#1(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#2]]
 
 ```query
-"[[Ps 2#2]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#2(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#3]]
 
 ```query
-"[[Ps 2#3]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#3(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#4]]
 
 ```query
-"[[Ps 2#4]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#4(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#5]]
 
 ```query
-"[[Ps 2#5]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#5(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#6]]
 
 ```query
-"[[Ps 2#6]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#6(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#7]]
 
 ```query
-"[[Ps 2#7]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#7(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#8]]
 
 ```query
-"[[Ps 2#8]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#8(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#9]]
 
 ```query
-"[[Ps 2#9]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#9(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#10]]
 
 ```query
-"[[Ps 2#10]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#10(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#11]]
 
 ```query
-"[[Ps 2#11]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#11(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 
 ![[Ps 2#12]]
 
 ```query
-"[[Ps 2#12]]" -file:"Commentaire Ps 2"
+/\[\[Ps 2#12(\|.*)?\]\]/ -file:"Commentaire Ps 2"
 ```
 

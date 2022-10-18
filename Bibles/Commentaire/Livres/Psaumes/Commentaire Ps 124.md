@@ -14,48 +14,48 @@ cssclass : français
 ![[Ps (124) 123#1]]
 
 ```query
-"[[Ps (124) 123#1]]" -file:"Commentaire Ps (124) 123"
+/\[\[Ps (124) 123#1(\|.*)?\]\]/ -file:"Commentaire Ps (124) 123"
 ```
 
 ![[Ps (124) 123#2]]
 
 ```query
-"[[Ps (124) 123#2]]" -file:"Commentaire Ps (124) 123"
+/\[\[Ps (124) 123#2(\|.*)?\]\]/ -file:"Commentaire Ps (124) 123"
 ```
 
 ![[Ps (124) 123#3]]
 
 ```query
-"[[Ps (124) 123#3]]" -file:"Commentaire Ps (124) 123"
+/\[\[Ps (124) 123#3(\|.*)?\]\]/ -file:"Commentaire Ps (124) 123"
 ```
 
 ![[Ps (124) 123#4]]
 
 ```query
-"[[Ps (124) 123#4]]" -file:"Commentaire Ps (124) 123"
+/\[\[Ps (124) 123#4(\|.*)?\]\]/ -file:"Commentaire Ps (124) 123"
 ```
 
 ![[Ps (124) 123#5]]
 
 ```query
-"[[Ps (124) 123#5]]" -file:"Commentaire Ps (124) 123"
+/\[\[Ps (124) 123#5(\|.*)?\]\]/ -file:"Commentaire Ps (124) 123"
 ```
 
 ![[Ps (124) 123#6]]
 
 ```query
-"[[Ps (124) 123#6]]" -file:"Commentaire Ps (124) 123"
+/\[\[Ps (124) 123#6(\|.*)?\]\]/ -file:"Commentaire Ps (124) 123"
 ```
 
 ![[Ps (124) 123#7]]
 
 ```query
-"[[Ps (124) 123#7]]" -file:"Commentaire Ps (124) 123"
+/\[\[Ps (124) 123#7(\|.*)?\]\]/ -file:"Commentaire Ps (124) 123"
 ```
 
 ![[Ps (124) 123#8]]
 
 ```query
-"[[Ps (124) 123#8]]" -file:"Commentaire Ps (124) 123"
+/\[\[Ps (124) 123#8(\|.*)?\]\]/ -file:"Commentaire Ps (124) 123"
 ```
 

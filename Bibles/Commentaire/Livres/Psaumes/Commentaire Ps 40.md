@@ -14,102 +14,102 @@ cssclass : français
 ![[Ps (40) 39#2]]
 
 ```query
-"[[Ps (40) 39#2]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#2(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#3]]
 
 ```query
-"[[Ps (40) 39#3]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#3(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#4]]
 
 ```query
-"[[Ps (40) 39#4]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#4(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#5]]
 
 ```query
-"[[Ps (40) 39#5]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#5(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#6]]
 
 ```query
-"[[Ps (40) 39#6]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#6(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#7]]
 
 ```query
-"[[Ps (40) 39#7]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#7(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#8]]
 
 ```query
-"[[Ps (40) 39#8]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#8(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#9]]
 
 ```query
-"[[Ps (40) 39#9]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#9(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#10]]
 
 ```query
-"[[Ps (40) 39#10]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#10(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#11]]
 
 ```query
-"[[Ps (40) 39#11]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#11(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#12]]
 
 ```query
-"[[Ps (40) 39#12]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#12(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#13]]
 
 ```query
-"[[Ps (40) 39#13]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#13(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#14]]
 
 ```query
-"[[Ps (40) 39#14]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#14(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#15]]
 
 ```query
-"[[Ps (40) 39#15]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#15(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#16]]
 
 ```query
-"[[Ps (40) 39#16]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#16(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#17]]
 
 ```query
-"[[Ps (40) 39#17]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#17(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 
 ![[Ps (40) 39#18]]
 
 ```query
-"[[Ps (40) 39#18]]" -file:"Commentaire Ps (40) 39"
+/\[\[Ps (40) 39#18(\|.*)?\]\]/ -file:"Commentaire Ps (40) 39"
 ```
 

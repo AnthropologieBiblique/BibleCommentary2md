@@ -14,114 +14,114 @@ cssclass : français
 ![[Ps (51) 50#3]]
 
 ```query
-"[[Ps (51) 50#3]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#3(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#4]]
 
 ```query
-"[[Ps (51) 50#4]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#4(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#5]]
 
 ```query
-"[[Ps (51) 50#5]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#5(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#6]]
 
 ```query
-"[[Ps (51) 50#6]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#6(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#7]]
 
 ```query
-"[[Ps (51) 50#7]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#7(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#8]]
 
 ```query
-"[[Ps (51) 50#8]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#8(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#9]]
 
 ```query
-"[[Ps (51) 50#9]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#9(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#10]]
 
 ```query
-"[[Ps (51) 50#10]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#10(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#11]]
 
 ```query
-"[[Ps (51) 50#11]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#11(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#12]]
 
 ```query
-"[[Ps (51) 50#12]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#12(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#13]]
 
 ```query
-"[[Ps (51) 50#13]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#13(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#14]]
 
 ```query
-"[[Ps (51) 50#14]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#14(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#15]]
 
 ```query
-"[[Ps (51) 50#15]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#15(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#16]]
 
 ```query
-"[[Ps (51) 50#16]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#16(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#17]]
 
 ```query
-"[[Ps (51) 50#17]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#17(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#18]]
 
 ```query
-"[[Ps (51) 50#18]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#18(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#19]]
 
 ```query
-"[[Ps (51) 50#19]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#19(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#20]]
 
 ```query
-"[[Ps (51) 50#20]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#20(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 
 ![[Ps (51) 50#21]]
 
 ```query
-"[[Ps (51) 50#21]]" -file:"Commentaire Ps (51) 50"
+/\[\[Ps (51) 50#21(\|.*)?\]\]/ -file:"Commentaire Ps (51) 50"
 ```
 

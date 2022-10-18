@@ -14,162 +14,162 @@ cssclass : français
 ![[Si 14#1]]
 
 ```query
-"[[Si 14#1]]" -file:"Commentaire Si 14"
+/\[\[Si 14#1(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#2]]
 
 ```query
-"[[Si 14#2]]" -file:"Commentaire Si 14"
+/\[\[Si 14#2(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#3]]
 
 ```query
-"[[Si 14#3]]" -file:"Commentaire Si 14"
+/\[\[Si 14#3(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#4]]
 
 ```query
-"[[Si 14#4]]" -file:"Commentaire Si 14"
+/\[\[Si 14#4(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#5]]
 
 ```query
-"[[Si 14#5]]" -file:"Commentaire Si 14"
+/\[\[Si 14#5(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#6]]
 
 ```query
-"[[Si 14#6]]" -file:"Commentaire Si 14"
+/\[\[Si 14#6(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#7]]
 
 ```query
-"[[Si 14#7]]" -file:"Commentaire Si 14"
+/\[\[Si 14#7(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#8]]
 
 ```query
-"[[Si 14#8]]" -file:"Commentaire Si 14"
+/\[\[Si 14#8(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#9]]
 
 ```query
-"[[Si 14#9]]" -file:"Commentaire Si 14"
+/\[\[Si 14#9(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#10]]
 
 ```query
-"[[Si 14#10]]" -file:"Commentaire Si 14"
+/\[\[Si 14#10(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#11]]
 
 ```query
-"[[Si 14#11]]" -file:"Commentaire Si 14"
+/\[\[Si 14#11(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#12]]
 
 ```query
-"[[Si 14#12]]" -file:"Commentaire Si 14"
+/\[\[Si 14#12(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#13]]
 
 ```query
-"[[Si 14#13]]" -file:"Commentaire Si 14"
+/\[\[Si 14#13(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#14]]
 
 ```query
-"[[Si 14#14]]" -file:"Commentaire Si 14"
+/\[\[Si 14#14(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#15]]
 
 ```query
-"[[Si 14#15]]" -file:"Commentaire Si 14"
+/\[\[Si 14#15(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#16]]
 
 ```query
-"[[Si 14#16]]" -file:"Commentaire Si 14"
+/\[\[Si 14#16(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#17]]
 
 ```query
-"[[Si 14#17]]" -file:"Commentaire Si 14"
+/\[\[Si 14#17(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#18]]
 
 ```query
-"[[Si 14#18]]" -file:"Commentaire Si 14"
+/\[\[Si 14#18(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#19]]
 
 ```query
-"[[Si 14#19]]" -file:"Commentaire Si 14"
+/\[\[Si 14#19(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#20]]
 
 ```query
-"[[Si 14#20]]" -file:"Commentaire Si 14"
+/\[\[Si 14#20(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#21]]
 
 ```query
-"[[Si 14#21]]" -file:"Commentaire Si 14"
+/\[\[Si 14#21(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#22]]
 
 ```query
-"[[Si 14#22]]" -file:"Commentaire Si 14"
+/\[\[Si 14#22(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#23]]
 
 ```query
-"[[Si 14#23]]" -file:"Commentaire Si 14"
+/\[\[Si 14#23(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#24]]
 
 ```query
-"[[Si 14#24]]" -file:"Commentaire Si 14"
+/\[\[Si 14#24(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#25]]
 
 ```query
-"[[Si 14#25]]" -file:"Commentaire Si 14"
+/\[\[Si 14#25(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#26]]
 
 ```query
-"[[Si 14#26]]" -file:"Commentaire Si 14"
+/\[\[Si 14#26(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 
 ![[Si 14#27]]
 
 ```query
-"[[Si 14#27]]" -file:"Commentaire Si 14"
+/\[\[Si 14#27(\|.*)?\]\]/ -file:"Commentaire Si 14"
 ```
 

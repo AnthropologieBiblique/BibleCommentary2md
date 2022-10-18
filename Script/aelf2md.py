@@ -245,7 +245,7 @@ class BibleChapter:
 		for verse in self.verseList:
 			f.write('![['+bookAbbrev+' '+self.number+'#'+verse.number+verse.sub_number+']]'+'\n'+'\n')
 			f.write('```query'+'\n')
-			f.write('"[['+bookAbbrev+' '+self.number+'#'+verse.number+verse.sub_number+']]" -file:"'+bibleAbbrev+' '+bookAbbrev+' '+self.number+'"'+'\n')
+			f.write('/\[\['+bookAbbrev+' '+self.number+'#'+verse.number+verse.sub_number+'(\|.*)?\]\]/ -file:"'+bibleAbbrev+' '+bookAbbrev+' '+self.number+'"'+'\n')
 			f.write('```'+'\n'+'\n')
 		f.close()
 

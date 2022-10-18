@@ -14,18 +14,18 @@ cssclass : français
 ![[Ps (134) 133#1]]
 
 ```query
-"[[Ps (134) 133#1]]" -file:"Commentaire Ps (134) 133"
+/\[\[Ps (134) 133#1(\|.*)?\]\]/ -file:"Commentaire Ps (134) 133"
 ```
 
 ![[Ps (134) 133#2]]
 
 ```query
-"[[Ps (134) 133#2]]" -file:"Commentaire Ps (134) 133"
+/\[\[Ps (134) 133#2(\|.*)?\]\]/ -file:"Commentaire Ps (134) 133"
 ```
 
 ![[Ps (134) 133#3]]
 
 ```query
-"[[Ps (134) 133#3]]" -file:"Commentaire Ps (134) 133"
+/\[\[Ps (134) 133#3(\|.*)?\]\]/ -file:"Commentaire Ps (134) 133"
 ```
 

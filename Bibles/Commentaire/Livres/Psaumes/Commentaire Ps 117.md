@@ -14,12 +14,12 @@ cssclass : français
 ![[Ps (117) 116#1]]
 
 ```query
-"[[Ps (117) 116#1]]" -file:"Commentaire Ps (117) 116"
+/\[\[Ps (117) 116#1(\|.*)?\]\]/ -file:"Commentaire Ps (117) 116"
 ```
 
 ![[Ps (117) 116#2]]
 
 ```query
-"[[Ps (117) 116#2]]" -file:"Commentaire Ps (117) 116"
+/\[\[Ps (117) 116#2(\|.*)?\]\]/ -file:"Commentaire Ps (117) 116"
 ```
 

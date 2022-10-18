@@ -14,30 +14,30 @@ cssclass : français
 ![[Ps (125) 124#1]]
 
 ```query
-"[[Ps (125) 124#1]]" -file:"Commentaire Ps (125) 124"
+/\[\[Ps (125) 124#1(\|.*)?\]\]/ -file:"Commentaire Ps (125) 124"
 ```
 
 ![[Ps (125) 124#2]]
 
 ```query
-"[[Ps (125) 124#2]]" -file:"Commentaire Ps (125) 124"
+/\[\[Ps (125) 124#2(\|.*)?\]\]/ -file:"Commentaire Ps (125) 124"
 ```
 
 ![[Ps (125) 124#3]]
 
 ```query
-"[[Ps (125) 124#3]]" -file:"Commentaire Ps (125) 124"
+/\[\[Ps (125) 124#3(\|.*)?\]\]/ -file:"Commentaire Ps (125) 124"
 ```
 
 ![[Ps (125) 124#4]]
 
 ```query
-"[[Ps (125) 124#4]]" -file:"Commentaire Ps (125) 124"
+/\[\[Ps (125) 124#4(\|.*)?\]\]/ -file:"Commentaire Ps (125) 124"
 ```
 
 ![[Ps (125) 124#5]]
 
 ```query
-"[[Ps (125) 124#5]]" -file:"Commentaire Ps (125) 124"
+/\[\[Ps (125) 124#5(\|.*)?\]\]/ -file:"Commentaire Ps (125) 124"
 ```
 

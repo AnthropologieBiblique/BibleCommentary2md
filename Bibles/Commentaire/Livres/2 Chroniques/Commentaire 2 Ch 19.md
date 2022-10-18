@@ -14,66 +14,66 @@ cssclass : français
 ![[2 Ch 19#1]]
 
 ```query
-"[[2 Ch 19#1]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#1(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#2]]
 
 ```query
-"[[2 Ch 19#2]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#2(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#3]]
 
 ```query
-"[[2 Ch 19#3]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#3(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#4]]
 
 ```query
-"[[2 Ch 19#4]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#4(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#5]]
 
 ```query
-"[[2 Ch 19#5]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#5(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#6]]
 
 ```query
-"[[2 Ch 19#6]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#6(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#7]]
 
 ```query
-"[[2 Ch 19#7]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#7(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#8]]
 
 ```query
-"[[2 Ch 19#8]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#8(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#9]]
 
 ```query
-"[[2 Ch 19#9]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#9(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#10]]
 
 ```query
-"[[2 Ch 19#10]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#10(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 
 ![[2 Ch 19#11]]
 
 ```query
-"[[2 Ch 19#11]]" -file:"Commentaire 2 Ch 19"
+/\[\[2 Ch 19#11(\|.*)?\]\]/ -file:"Commentaire 2 Ch 19"
 ```
 

@@ -14,120 +14,120 @@ cssclass : français
 ![[2 R 24#1]]
 
 ```query
-"[[2 R 24#1]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#1(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#2]]
 
 ```query
-"[[2 R 24#2]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#2(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#3]]
 
 ```query
-"[[2 R 24#3]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#3(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#4]]
 
 ```query
-"[[2 R 24#4]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#4(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#5]]
 
 ```query
-"[[2 R 24#5]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#5(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#6]]
 
 ```query
-"[[2 R 24#6]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#6(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#7]]
 
 ```query
-"[[2 R 24#7]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#7(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#8]]
 
 ```query
-"[[2 R 24#8]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#8(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#9]]
 
 ```query
-"[[2 R 24#9]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#9(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#10]]
 
 ```query
-"[[2 R 24#10]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#10(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#11]]
 
 ```query
-"[[2 R 24#11]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#11(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#12]]
 
 ```query
-"[[2 R 24#12]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#12(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#13]]
 
 ```query
-"[[2 R 24#13]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#13(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#14]]
 
 ```query
-"[[2 R 24#14]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#14(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#15]]
 
 ```query
-"[[2 R 24#15]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#15(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#16]]
 
 ```query
-"[[2 R 24#16]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#16(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#17]]
 
 ```query
-"[[2 R 24#17]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#17(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#18]]
 
 ```query
-"[[2 R 24#18]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#18(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#19]]
 
 ```query
-"[[2 R 24#19]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#19(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 
 ![[2 R 24#20]]
 
 ```query
-"[[2 R 24#20]]" -file:"Commentaire 2 R 24"
+/\[\[2 R 24#20(\|.*)?\]\]/ -file:"Commentaire 2 R 24"
 ```
 

@@ -14,6 +14,6 @@ cssclass : français
 ![[Si 0#0]]
 
 ```query
-"[[Si 0#0]]" -file:"Commentaire Si 0"
+/\[\[Si 0#0(\|.*)?\]\]/ -file:"Commentaire Si 0"
 ```
 

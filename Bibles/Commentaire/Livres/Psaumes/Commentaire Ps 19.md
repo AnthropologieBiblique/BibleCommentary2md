@@ -14,84 +14,84 @@ cssclass : français
 ![[Ps (19) 18#2]]
 
 ```query
-"[[Ps (19) 18#2]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#2(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#3]]
 
 ```query
-"[[Ps (19) 18#3]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#3(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#4]]
 
 ```query
-"[[Ps (19) 18#4]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#4(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#5]]
 
 ```query
-"[[Ps (19) 18#5]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#5(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#6]]
 
 ```query
-"[[Ps (19) 18#6]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#6(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#7]]
 
 ```query
-"[[Ps (19) 18#7]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#7(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#8]]
 
 ```query
-"[[Ps (19) 18#8]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#8(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#9]]
 
 ```query
-"[[Ps (19) 18#9]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#9(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#10]]
 
 ```query
-"[[Ps (19) 18#10]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#10(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#11]]
 
 ```query
-"[[Ps (19) 18#11]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#11(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#12]]
 
 ```query
-"[[Ps (19) 18#12]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#12(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#13]]
 
 ```query
-"[[Ps (19) 18#13]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#13(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#14]]
 
 ```query
-"[[Ps (19) 18#14]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#14(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
 ![[Ps (19) 18#15]]
 
 ```query
-"[[Ps (19) 18#15]]" -file:"Commentaire Ps (19) 18"
+/\[\[Ps (19) 18#15(\|.*)?\]\]/ -file:"Commentaire Ps (19) 18"
 ```
 
