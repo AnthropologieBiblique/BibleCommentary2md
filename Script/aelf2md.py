@@ -107,7 +107,7 @@ class Bible:
 		f.write('# '+self.name+'\n\n')
 		for book in self.booksList:
 			book.buildMdBible(self.abbrev,path)
-			f.write('[['+book.abbrev+'|'+book.name+']]'+'\n')
+			f.write('[['+self.abbrev+' '+book.abbrev+'|'+book.name+']]'+'\n')
 		f.close()
 
 class BibleBook:
@@ -123,7 +123,7 @@ class BibleBook:
 	def addChapter(self,chapter):
 		self.chapterList.append(chapter)
 	def buildMdBible(self,bibleAbbrev,path):
-		name = self.standardAbbrev
+		name = bibleAbbrev+' '+self.standardAbbrev
 		path += '/Livres'
 		try:
 			os.mkdir(path)
