@@ -101,7 +101,7 @@ class Bible:
 			pass
 		f = open(path+'/'+'Ref.md', 'w')
 		f.write('---'+'\n')
-		f.write('tags : '+'Bible'+', '+self.language+'\n')
+		f.write('tags : '+'Bible'+', '+self.language+', Commentaire'+'\n')
 		f.write('cssclass : '+self.language+'\n')
 		f.write('---'+'\n')
 		f.write('# '+self.name+'\n\n')
@@ -243,8 +243,10 @@ class BibleChapter:
 		f.write('---'+'\n\n')
 		f.write('# '+bookName+' '+self.number+'\n\n')
 		for verse in self.verseList:
-			f.write('###### '+verse.number+verse.sub_number+'\n')
-			f.write(verse.verseText+'\n')
+			f.write('![['+bookAbbrev+' '+self.number+'#'+verse.number+verse.sub_number+']]'+'\n'+'\n')
+			f.write('```query'+'\n')
+			f.write('"[['+bookAbbrev+' '+self.number+'#'+verse.number+verse.sub_number+']]" -file:"'+bibleAbbrev+' '+bookAbbrev+' '+self.number+'"'+'\n')
+			f.write('```'+'\n'+'\n')
 		f.close()
 
 class BibleVerse:
@@ -254,6 +256,6 @@ class BibleVerse:
 		self.verseText = verseText
 
 #aelf = Bible("Bible AELF","AELF",False,"français")
-ref = Bible("Bible AELF","",False,"français")
+Commentaires = Bible("Bible Commentée","Commentaire",False,"français")
 
 
