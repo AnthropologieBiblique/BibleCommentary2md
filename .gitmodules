@@ -1,0 +1,4 @@
+[submodule "Bible/COM"]
+	path = Bible/COM
+	url = https://github.com/AnthropologieBiblique/COM
+	branch = main
